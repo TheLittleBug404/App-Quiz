@@ -1,6 +1,6 @@
 # quiz_aplicacion
 
-A new Flutter project.
+Una aplicacion quiz hecho en flutter para mobile
 
 ## Getting Started
 
